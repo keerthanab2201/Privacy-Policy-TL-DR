@@ -1,0 +1,40 @@
+We value your privacy and are committed to protecting your personal information. 
+This Privacy Policy explains how we collect, use, store, and share information when 
+you use our website, mobile applications, and related services.
+
+We may collect personal information such as your name, email address, phone number, 
+IP address, device identifiers, and location data. Location information may be 
+collected through GPS, Wi-Fi, or IP-based tracking when you enable location services 
+or interact with our platform. We also collect information about your browsing 
+behavior, including pages visited, time spent on the site, clicks, and interaction 
+patterns. This data is collected using cookies, pixels, and similar tracking 
+technologies.
+
+The information we collect is used to provide and improve our services, personalize 
+content, analyze usage trends, detect fraudulent activity, and ensure platform 
+security. We may also use your data for advertising, marketing communications, and 
+promotional purposes, including showing you targeted advertisements based on your 
+interests and activity.
+
+We may share your personal information with third-party partners, service providers, 
+vendors, and advertisers who help us operate our business, deliver services, or 
+display advertisements. These third parties may process your information on our 
+behalf and in accordance with their own privacy policies. We are not responsible for 
+the privacy practices of third-party services.
+
+Your personal data may be stored on servers located in different countries and may be 
+retained for as long as necessary to fulfill the purposes described in this policy. 
+In some cases, data may be stored indefinitely for legal, compliance, analytics, or 
+business continuity purposes.
+
+We take reasonable security measures to protect your information; however, no system 
+is completely secure. We cannot guarantee absolute security of your data.
+
+You may have certain rights regarding your personal information, including the right 
+to access, update, or delete your data, subject to applicable laws and regulations. 
+To exercise these rights, you may contact us through the support channels provided on 
+our website.
+
+By continuing to use our services, you acknowledge that you have read and understood 
+this Privacy Policy and consent to the collection, use, and sharing of your 
+information as described above.
