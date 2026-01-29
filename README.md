@@ -1,4 +1,3 @@
-# Privacy-Policy-TL-DR
 # 🔐 Privacy Policy TL;DR & Risk Analyzer
 
 An NLP-based application that summarizes lengthy Privacy Policies and Terms of Service documents, highlights key data collection practices, and identifies potential privacy risks in a clear and user-friendly manner.
